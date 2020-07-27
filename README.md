@@ -1,2 +1,2 @@
 # school-mgt-api
-School Database Management System
+School Database Management System API
